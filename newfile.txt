@@ -1,0 +1,8 @@
+add
+ to the staging area
+
+commit 
+to the local repo
+
+push 
+to the reomote repo
